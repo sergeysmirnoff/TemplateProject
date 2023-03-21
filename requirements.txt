@@ -1,0 +1,7 @@
+pytest~=7.1.2
+Pillow>=9.0.1
+selenium~=4.2.0
+mouse>=0.7.1
+PyAutoGUI>=0.9.53
+PySimpleGUI>=4.56.0
+keyboard>=0.13.5
