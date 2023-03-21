@@ -5,3 +5,8 @@ mouse>=0.7.1
 PyAutoGUI>=0.9.53
 PySimpleGUI>=4.56.0
 keyboard>=0.13.5
+C:\Users\swuser\PycharmProjects\TemplateProject\pkgs\test_framework_database-0.2.6.tar.gz
+C:\Users\swuser\PycharmProjects\TemplateProject\pkgs\test_framework_interactions-0.3.3.tar.gz
+C:\Users\swuser\PycharmProjects\TemplateProject\pkgs\test_framework_milp-0.3.1.tar.gz
+C:\Users\swuser\PycharmProjects\TemplateProject\pkgs\test_framework_process-0.3.tar.gz
+C:\Users\swuser\PycharmProjects\TemplateProject\pkgs\test_framework_utilities-0.4.1.4.tar.gz
