@@ -28,6 +28,7 @@ class TestT1:
         print("setup")
 
     def test_1(self):
+        # incorrect credentials check
         self.sd.clear_input_field(element=self.login.email_text())
         self.sd.send_keys(element=self.login.email_text(), data=self.username)
         self.sd.clear_input_field(element=self.login.current_password_password())
@@ -37,6 +38,7 @@ class TestT1:
         self.verify.verify_values_match(expected="https://profile.w3schools.com/", actual=self.sd.get_current_url())
 
     def test_2(self):
+        # correct credential check
         self.sd.clear_input_field(element=self.login.email_text())
         self.sd.send_keys(element=self.login.email_text(), data=self.username)
         self.sd.clear_input_field(element=self.login.current_password_password())
